@@ -1,0 +1,3 @@
+class HomeViewModel {
+  String url = "";
+}
